@@ -21,9 +21,11 @@ create or replace procedure baninst1.wp_test_db is
   -- --------------------------------------
   --  Version   Issue          Date          User         Reason For Change
   --  -------  ---------    -----------     --------     -----------------------
+  --   #3
  --    #4                                                test merge with #3
  --****************************************************************************************************************************
 begin
+  dbms_output.put_line('hi');
   dbms_output.put_line('hi there');
 end;
 /
