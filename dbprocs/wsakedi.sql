@@ -23,6 +23,7 @@ CREATE OR REPLACE PACKAGE baninst1.wsakedi IS
   -- -----------
   --  Version  Issue      Date         User         Reason For Change
   --  -------  ---------  -----------  --------     -----------------------
+  --    #6
   --     1     OASBAN-18  4/24/2012       MROBERTS  Modifications for Distance Learning Transient Student
   --                                                Project 11-00208
   --                                                Modified the following:
